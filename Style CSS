@@ -1,0 +1,11 @@
+p{color: #FFCC00;text-shadow: blue;box-shadow: 2px 2px 5px blue;}
+a{color: blue;text-decoration: none;}
+a:hover{color:red;font-size: 30px;}
+.img1{border:3px solid #FFCC00;
+border-radius: 20px; 
+box-shadow: 10px 10px 5px 12px lightblue;
+width: 300px;}
+.img-circle{border-radius: 300px;}
+
+h1{color: blue;}
+h2{color: red;}
